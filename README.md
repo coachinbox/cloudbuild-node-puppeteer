@@ -13,3 +13,5 @@ steps:
       - install
     entrypoint: npm
 ```
+
+Reference: [https://cloud.google.com/build/docs/configuring-builds/use-community-and-custom-builders#creating_a_custom_builder]
